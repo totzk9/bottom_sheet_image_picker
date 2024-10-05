@@ -1,0 +1,23 @@
+name: bottom_sheet_image_picker
+description: Shows a bottom sheet dialog that let's you choose the images you want to fetch from your local storage.
+version: 0.1.0
+homepage:
+
+environment:
+  sdk: '>=2.17.0 <3.0.0'
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  image_picker: ^0.8.5+3
+  photo_manager: ^2.3.0
+  sliding_up_panel: ^2.0.0+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  lint: ^1.10.0
+
+flutter:

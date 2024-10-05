@@ -1,0 +1,5 @@
+#
+# Lint rules to be used for packages, which provide a dart API for developers
+##
+
+include: package:lint/analysis_options.yaml
